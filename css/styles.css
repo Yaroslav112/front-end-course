@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+    background-color: #d6d3d3;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 40px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h5 {
+    height: 9px;
+    color: #898f99;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 30px; 
+    letter-spacing: 4.8px;
+}
+
+h1 {
+    height: 36px;
+    color: #0ec8cb;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 30px; 
+    letter-spacing: 4.8px;
+}
+
+h6 {
+    width: 540px;
+    height: 43px;
+    color: #999999;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 0 0 50px 0;
+}
+
+.main-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+img {
+    top: 50px;
+}
+
+.anchor {
+    position: absolute;
+    left: 378px;
+}
+
+.diamond {
+    position: absolute;
+    left: 617px;
+}
+
+.glass {
+    position: absolute;
+    right: 616px;
+}
+
+.monitor {
+    position: absolute;
+    right: 382px; 
+}
+
+h4 {
+    width: 138px;
+    height: 16px;
+    color: #1b1b1b;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 550;
+    text-transform: uppercase;
+    position: absolute;
+    bottom: 215px;
+    text-align: center;  
+}
+
+p {
+    width: 210px;
+    height: 101px;
+    color: #777777;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    position: absolute;
+    text-align: center;
+    bottom: 100px;
+}
+
+.title-1 {
+    left: 344px;
+}
+
+.title-2 {
+    left: 574px;
+    color: #ffffff;
+    bottom: 229px;
+}
+
+.title-3 {
+    right: 577px;
+}
+
+.title-4 {
+    right: 354px;
+}
+
+.p-1 {
+    left: 307px;
+}
+
+.p-2 {
+    left: 546px; 
+    color: #ffffff;
+}
+
+.p-3 {
+    right: 548px;
+}
+
+.p-4 {
+    right: 313px;
+}
